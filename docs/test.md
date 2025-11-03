@@ -6,7 +6,7 @@ This chapter provides an overview of the DEEPX SDK architecture and explains eac
 
 <div class="center-text">
 <p align="center">
-<img src="./../resources/01_SDK_Architecture.drawio.png" alt="DEEPX SDK Architecture" width="650px">  
+<img src="./../resources/windows_driver_is_installed.png" alt="DEEPX SDK Architecture" width="650px">  
 <br>
 Figure. DEEPX SDK Architecture  
 <br><br>
@@ -23,7 +23,7 @@ Here is the inference flow of **DX-RT**.
 
 <div class="center-text">
 <p align="center">
-<img src="./../resources/01_02_Inference_Flow_of_DXNN_Runtime.png" alt="Inference Flow of DXNN Runtime" width="900px">  
+<img src="./../resources/windows_driver_is_not_installed.png" alt="Inference Flow of DXNN Runtime" width="900px">  
 <br>
 Figure. Inference Flow of DXNN Runtime  
 <br><br>
